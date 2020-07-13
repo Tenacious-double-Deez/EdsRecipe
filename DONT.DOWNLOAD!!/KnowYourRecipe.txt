@@ -1,0 +1,72 @@
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+--------------------------------------------------------------------------------------------------------------
+KnowYourRecipe()
+-Altitude.Cooking
+-Cooking.Methods
+-User.Input
+-GUI
+-Output
+-grocery list
+		-nutrion info
+		-cost
+-search by country/ cultural denomination
+-recommends substions for missing ingredients
+-meal size
+-cup size
+-saves likes and dislikes
+-inputs allergeies
+-Instant.Tutorials
+-Cooking.Time
+-Cooking.Pics
+-Cooking.Calculations
+-Temperature
+-Allergy Info
+-Prepping.Methods
+-Cooking.Hot
+-stove vs microwave vs oven
+-Cups/Gallons USA vs Europe vs Scale
+-Class
+
+-Measurement.Converter
+-Serving.Calculator
+-Calories
+-Caloric.Food
+-Caloric.Calculator
+-Mark.Points?
+-Data
+-outline 9 jobs
+-recipe
+	
+       -ingredientsCLASS
+	-attributes
+	-sub recipes class
+
+	-wet and dry 
+
+	-macros
+	-nutrion infoClass
+	-
+	-
+
+-----------------------------------------------------------------------------------------------------------
+
+
+
+--------------------Feature---------------------
+--------Measurement conversion-------------------
+     -TemperatureCLASS VS function
+---- int 
+----
+---
+-data types celuis vs farenhiet 
+-scale 	
+
+     -constant
+
+Foodmodifier
